@@ -1,0 +1,4 @@
+C:\Users\KAYA\source\repos\ProductDll\x64\Debug\Ijwhost.dll
+C:\Users\KAYA\source\repos\ProductDll\x64\Debug\ProductDll.deps.json
+C:\Users\KAYA\source\repos\ProductDll\x64\Debug\ProductDll.runtimeconfig.json
+C:\Users\KAYA\source\repos\ProductDll\ProductDll\x64\Debug\ProductDll.genruntimeconfig.cache

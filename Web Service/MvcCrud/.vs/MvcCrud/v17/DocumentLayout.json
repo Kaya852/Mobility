@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\controllers\\aspapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\controllers\\aspapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\controllers\\flaskapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\controllers\\flaskapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\views\\aspapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\views\\aspapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\views\\flaskapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\views\\flaskapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|c:\\users\\kaya\\source\\repos\\mvccrud\\mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\data\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\data\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|C:\\Users\\KAYA\\source\\repos\\MvcCrud\\mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572A2D9-E488-4DB7-A951-BACC5A0AFA1E}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlaskApiController.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\FlaskApiController.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Controllers\\FlaskApiController.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\FlaskApiController.cs",
+              "RelativeToolTip": "MvcCrud\\Controllers\\FlaskApiController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswDAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:28:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Program.cs",
+              "RelativeToolTip": "MvcCrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:08:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MvcCrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Data\\MvcCrudContext.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Data\\MvcCrudContext.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Data\\MvcCrudContext.cs",
+              "RelativeToolTip": "MvcCrud\\Data\\MvcCrudContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:04:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Models\\Record.cs",
+              "RelativeToolTip": "MvcCrud\\Models\\Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:06:45.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\RecordsController.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Controllers\\RecordsController.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\RecordsController.cs",
+              "RelativeToolTip": "MvcCrud\\Controllers\\RecordsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:11:00.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:01:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T15:21:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspApiController.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\AspApiController.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Controllers\\AspApiController.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\AspApiController.cs",
+              "RelativeToolTip": "MvcCrud\\Controllers\\AspApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:03:09.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\FlaskApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCrud\\Views\\FlaskApi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\FlaskApi\\Index.cshtml",
+              "RelativeToolTip": "MvcCrud\\Views\\FlaskApi\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T02:32:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\AspApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCrud\\Views\\AspApi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\AspApi\\Index.cshtml",
+              "RelativeToolTip": "MvcCrud\\Views\\AspApi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T03:04:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Records\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCrud\\Views\\Records\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Records\\Index.cshtml",
+              "RelativeToolTip": "MvcCrud\\Views\\Records\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T14:48:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\MvcCrud\\MvcCrud\\appsettings.json",
+              "RelativeToolTip": "MvcCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T21:02:29.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

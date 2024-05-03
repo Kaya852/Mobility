@@ -1,0 +1,4 @@
+﻿  multiplier.cpp
+  dllmain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library C:\Users\KAYA\source\repos\ProductDll\x64\Debug\ProductDll.lib and object C:\Users\KAYA\source\repos\ProductDll\x64\Debug\ProductDll.exp
+  ProductDll.vcxproj -> C:\Users\KAYA\source\repos\ProductDll\x64\Debug\ProductDll.dll

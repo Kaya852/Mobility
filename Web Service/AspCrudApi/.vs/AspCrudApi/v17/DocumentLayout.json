@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|c:\\users\\kaya\\source\\repos\\aspcrudapi\\aspcrudapi\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\data\\aspcrudapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\data\\aspcrudapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\models\\addrecordcontextrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\models\\addrecordcontextrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\aspcrudapi\\aspcrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FECB5889-6955-4744-BB44-231FAE6C6326}|AspCrudApi\\AspCrudApi.csproj|solutionrelative:aspcrudapi\\aspcrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Controllers\\RecordsController.cs",
+              "RelativeDocumentMoniker": "AspCrudApi\\Controllers\\RecordsController.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Controllers\\RecordsController.cs",
+              "RelativeToolTip": "AspCrudApi\\Controllers\\RecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:52:25.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspCrudApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspCrudApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T23:02:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "AspCrudApi\\Program.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Program.cs",
+              "RelativeToolTip": "AspCrudApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:44:24.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCrudApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\appsettings.json",
+              "RelativeToolTip": "AspCrudApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T20:41:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspCrudApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Data\\AspCrudApiDbContext.cs",
+              "RelativeDocumentMoniker": "AspCrudApi\\Data\\AspCrudApiDbContext.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Data\\AspCrudApiDbContext.cs",
+              "RelativeToolTip": "AspCrudApi\\Data\\AspCrudApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:32:45.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "AspCrudApi\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Models\\Record.cs",
+              "RelativeToolTip": "AspCrudApi\\Models\\Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:29:58.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRecordContextRequest.cs",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Models\\AddRecordContextRequest.cs",
+              "RelativeDocumentMoniker": "AspCrudApi\\Models\\AddRecordContextRequest.cs",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\Models\\AddRecordContextRequest.cs",
+              "RelativeToolTip": "AspCrudApi\\Models\\AddRecordContextRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:46:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AspCrudApi",
+              "DocumentMoniker": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\AspCrudApi.csproj",
+              "RelativeDocumentMoniker": "AspCrudApi\\AspCrudApi.csproj",
+              "ToolTip": "C:\\Users\\KAYA\\source\\repos\\AspCrudApi\\AspCrudApi\\AspCrudApi.csproj",
+              "RelativeToolTip": "AspCrudApi\\AspCrudApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T20:29:28.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

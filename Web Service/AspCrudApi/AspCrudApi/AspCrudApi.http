@@ -1,0 +1,6 @@
+@AspCrudApi_HostAddress = http://localhost:5100
+
+GET {{AspCrudApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
